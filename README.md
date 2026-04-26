@@ -51,11 +51,11 @@ I’m a backend-focused software engineer who enjoys building scalable, reliable
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=LaluPrasad-M&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=LaluPrasad-M&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaluPrasad-M&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaluPrasad-M&layout=compact&theme=transparent)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=LaluPrasad-M&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=LaluPrasad-M&theme=transparent)
 
 ---
 
